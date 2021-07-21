@@ -1,2 +1,2 @@
-# Bank_of_Alexandria
+# Bank of Alexandria
 Java project
